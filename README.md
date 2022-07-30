@@ -1,4 +1,4 @@
-# Task Manager Fullstack
+# Full Stack Flipkart Clone
 
 ### [To see Live Demo of this App Click here !](https://flipkartclonebyvibhay.herokuapp.com/)
 
@@ -10,4 +10,5 @@
 - Used ```MongoDB Atlas``` to store the user’s tasks.<br/>
 - Implemented user authentication feature..
 - Implemented cart and search features similar to original website..
+
 
